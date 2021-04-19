@@ -1,5 +1,5 @@
 *.exe
 
 .env
-
+template
 .vscode/
